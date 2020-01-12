@@ -3,4 +3,5 @@ settings.py
 __pycache__/
 static_collected/
 .idea
+.DS_Store
 */.DS_Store
