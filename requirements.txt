@@ -2,4 +2,8 @@ Django==2.0
 django-ckeditor==5.8.0
 django-js-asset==1.2.2
 Pillow==6.2.1
+<<<<<<< HEAD
 pytz==2019.3
+=======
+pytz==2019.3
+>>>>>>> bbf73ae2000ca319d43acff1c0496380806008c4
